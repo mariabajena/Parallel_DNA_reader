@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1544022604 source:e:\uva\fso\practicas\laboratoriofsodna\fsoparte2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stdbool.h>
+	<semaphore.h>
+	<pthread.h>
+	"xprintf.h"
+
+1543951842 e:\uva\fso\practicas\laboratoriofsodna\fsoparte2\xprintf.h
+	<unistd.h>
+
